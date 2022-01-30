@@ -9,7 +9,7 @@
 
 ---
 
-#### Built With
+#### Built With
 
 - Streamlit
 - Optuna
@@ -19,11 +19,11 @@
 - Numpy
 - Plotly
 
-#### Data
+#### Data
 
 - [The Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 
-#### Models 
+#### Models 
 
 - [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
