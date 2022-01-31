@@ -1,7 +1,7 @@
 ## Hyper-Parameter Optimization w/ Optuna - Streamlit and Random Forest
 
 
-### Want to learn how this App works? [Blog Post](https://medium.com/@enesblog/optuna-ve-streamlit-ile-hiper-parametre-optimizasyonu-random-forest-f831db7ec405) - [Turkish]  
+### Want to learn how this App works? [Blog Post](https://medium.com/@enescavus/optuna-ve-streamlit-ile-hiper-parametre-optimizasyonu-random-forest-f831db7ec405) - [Turkish]  
 
 ---
 
